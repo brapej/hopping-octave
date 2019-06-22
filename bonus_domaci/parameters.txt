@@ -1,0 +1,8 @@
+Ime i prezime: BRANISLAV PEJIC
+Broj indeksa:RM-48\16
+_______
+P = 0
+Q = 0
+R = 0
+S = 0
+_______

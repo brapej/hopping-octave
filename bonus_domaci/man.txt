@@ -1,0 +1,6 @@
+Bonus domaci:
+BRANISLAV PEJIC
+RM 48/16
+
+Prilikom prvog pokretanja skripte Domaci_GUI generisace se fajl 'parameters.txt' u kome se cuvaju 
+Ime, prezime ,broj indeksa i parametri. 
